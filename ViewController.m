@@ -28,6 +28,7 @@
     } failure:^void(AFHTTPRequestOperation * operation, NSError * error) {
         NSLog(@"%@",error);
     }];
+    NSLog(@"1231231231");
     
     
     // post 请求
