@@ -29,7 +29,7 @@
         NSLog(@"%@",error);
     }];
     NSLog(@"1231231231");
-    
+    NSLog(@"啦啦啦啦啦了");
     
     // post 请求
     AFHTTPRequestOperationManager *manager1 = [AFHTTPRequestOperationManager manager];
